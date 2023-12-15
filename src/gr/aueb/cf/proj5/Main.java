@@ -9,4 +9,8 @@ public class Main {
     public static void sayHello() {
         System.out.println("Hello!");
     }
+
+    public static void sayHotfix() {
+        System.out.println("Hotfix Hotfix Hotfix!");
+    }
 }
