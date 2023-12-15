@@ -12,7 +12,7 @@ public class Main {
     }
 
     public static void sayMantara() {
-        System.out.println("Ta kaname mantara   ..!");
+        System.out.println("changes from Hotfix");
     }
 
 }
