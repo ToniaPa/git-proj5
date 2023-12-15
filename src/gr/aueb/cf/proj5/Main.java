@@ -11,6 +11,6 @@ public class Main {
     }
 
     public static void sayHotfix() {
-        System.out.println("Hotfix Hotfix Hotfix!");
+        System.out.println("changes in Main branch!");
     }
 }
