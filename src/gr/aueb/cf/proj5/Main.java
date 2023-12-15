@@ -13,4 +13,8 @@ public class Main {
     public static void sayHotfix() {
         System.out.println("changes in Main branch!");
     }
+
+     public static void sayHotfix2() {
+        System.out.println("changes in Main branch to Hotfix2!");
+    }
 }
